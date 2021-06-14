@@ -10,7 +10,11 @@ I'm a React Native Developer.
 - 🏆 9/12/2018 🏟️
 
 ## My works
-[Twitter copy](https://github.com/MarceeloDominguez/Twitter)
+
+*Name* | *Type* | *Screenshot* |
+----------|:----------:|-----------|
+[Twitter](https://github.com/MarceeloDominguez/Twitter) | React Native | ![drawerlight](https://user-images.githubusercontent.com/70117105/121930230-863d3700-cd18-11eb-8606-aec791b5d4c2.png)
+ |
 
 ## Skills:
 
