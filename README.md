@@ -13,9 +13,11 @@ I'm a React Native Developer.
 
 *Name* | *Type* | *Preview* |
 ----------|:----------:|-----------|
-[Twitter](https://github.com/MarceeloDominguez/Twitter) | React Native | ![drawerlight](https://user-images.githubusercontent.com/70117105/121930230-863d3700-cd18-11eb-8606-aec791b5d4c2.png)
-[Add Products](https://github.com/MarceeloDominguez/Add-products) | React Native | ![drawerlight](https://user-images.githubusercontent.com/70117105/144853967-a4f48077-dc67-45dd-b1eb-3451b6f7fc14.gif)
-[Recipes App](https://github.com/MarceeloDominguez/Recipe-App-) | React Native | ![drawerlight](https://user-images.githubusercontent.com/70117105/144854826-b597f288-0a3c-424e-b37b-4149ffdae743.gif)
+[Twitter](https://github.com/MarceeloDominguez/Twitter) | React Native | <img src="https://user-images.githubusercontent.com/70117105/121930230-863d3700-cd18-11eb-8606-aec791b5d4c2.png" width="400">
+[Add Products](https://github.com/MarceeloDominguez/Add-products) | React Native | <img src="https://user-images.githubusercontent.com/70117105/144853967-a4f48077-dc67-45dd-b1eb-3451b6f7fc14.gif" width="400">
+[Recipes App](https://github.com/MarceeloDominguez/Recipe-App-) | React Native | <img src="https://user-images.githubusercontent.com/70117105/144854826-b597f288-0a3c-424e-b37b-4149ffdae743.gif" width="400">
+
+
 
 
 ## Skills:
