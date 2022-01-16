@@ -39,6 +39,7 @@ I'm a React Native Developer.
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google%20play&logoColor=white&labelColor=101010)]()
 [![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google%20maps&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@MarceeDominguez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/MarceeDominguez)
