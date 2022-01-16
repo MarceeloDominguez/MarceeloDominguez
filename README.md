@@ -33,7 +33,7 @@ I'm a React Native Developer.
 </br>
 [![Chakra UI](https://img.shields.io/badge/Chacra_UI-319795?style=for-the-badge&logo=ChakraUI&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)]()
-[![styled components](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)]()
+[![styled components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google%20play&logoColor=white&labelColor=101010)]()
