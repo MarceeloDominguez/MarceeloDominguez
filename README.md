@@ -18,8 +18,7 @@ I'm a React Native Developer.
 [Add Products](https://github.com/MarceeloDominguez/Add-products) | React Native | <img src="https://user-images.githubusercontent.com/70117105/144853967-a4f48077-dc67-45dd-b1eb-3451b6f7fc14.gif" width="400">
 [Recipes App](https://github.com/MarceeloDominguez/Recipe-App-) | React Native | <img src="https://user-images.githubusercontent.com/70117105/144854826-b597f288-0a3c-424e-b37b-4149ffdae743.gif" width="400">
 [Cards App](https://github.com/MarceeloDominguez/app-card) | React Native | <img src="https://user-images.githubusercontent.com/70117105/144864100-22e2992e-bb2b-4621-90a5-f295b03010cf.gif" width="400">
-[Cards App](https://github.com/MarceeloDominguez/app-card) | React Native | <img src="![home](https://user-images.githubusercontent.com/70117105/149678055-c838d160-2e02-4555-bf43-dfc9b706c78c.png)
-" width="400">
+[Cards App](https://github.com/MarceeloDominguez/app-card) | React Native | <img src="https://user-images.githubusercontent.com/70117105/149678055-c838d160-2e02-4555-bf43-dfc9b706c78c.png>
 
 
 ## Skills:
