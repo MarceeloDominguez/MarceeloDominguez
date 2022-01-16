@@ -24,6 +24,7 @@ I'm a React Native Developer.
 ## Skills:
 
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
+[![React Js](https://img.shields.io/badge/React_Js-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)]()</br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
