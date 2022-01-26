@@ -20,7 +20,6 @@ I'm a React Native Developer.
 [Cards App](https://github.com/MarceeloDominguez/app-card) | React Native | <img src="https://user-images.githubusercontent.com/70117105/144864100-22e2992e-bb2b-4621-90a5-f295b03010cf.gif" width="400">
 [Shopping cart](https://github.com/MarceeloDominguez/React-shopping-cart) | React | <img src="https://user-images.githubusercontent.com/70117105/149678055-c838d160-2e02-4555-bf43-dfc9b706c78c.png" width="800">
 
-
 ## Skills:
 
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
