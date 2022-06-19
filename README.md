@@ -1,7 +1,7 @@
 # Hi, my name is Marcelo Dominguez 👋
 
 ## Resume
-I'm a React & React Native Developer.
+I'm a React/React Native Developer.
 
 ## Present
 - 🔭 I’m currently working as Jr React Native developer
