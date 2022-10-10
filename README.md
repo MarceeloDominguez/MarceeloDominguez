@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dominguez</h1>
-<h3 align="center">A passionate frontend developer from Argentina arge🇦🇷</h3>
+<h3 align="center">A passionate frontend developer from Argentina 🇦🇷</h3>
 
 ## 🚀 About Me
 - 👨‍💻 All of my projects are available at [https://portafolio-seven-eta.vercel.app/](https://portafolio-seven-eta.vercel.app/)
