@@ -1,7 +1,7 @@
 # Hi, my name is Marcelo Dominguez 👋
 
 ## Resume
-I'm a React/React Native Developer.
+I'm a Frontend Developer. React Js - React Native
 
 ## Present
 - 👨‍💻 All of my projects are available at [https://portafolio-seven-eta.vercel.app/](https://portafolio-seven-eta.vercel.app/)
