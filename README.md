@@ -19,7 +19,7 @@
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Dominguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcelo-dominguez-351570194/)
 </br>
-[![Portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=#14532d)](https://portafolio-seven-eta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=#14532d)](https://portafolio-seven-eta.vercel.app/)
 
 
 ## Contact me:
