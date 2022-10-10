@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dominguez</h1>
-<h3 align="center">A passionate frontend developer from Argentina.🇷</h3>
+<h3 align="center">A passionate frontend developer from Argentina.</h3>
 
 ## 🚀 About Me
 - 👨‍💻 All of my projects are available at [https://portafolio-seven-eta.vercel.app/](https://portafolio-seven-eta.vercel.app/)
@@ -19,7 +19,8 @@
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Dominguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcelo-dominguez-351570194/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-seven-eta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://portafolio-seven-eta.vercel.app/)
+
 
 ## Contact me:
 [![Email](https://img.shields.io/badge/marceelodominguez@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marceelodominguez@gmail.com)
