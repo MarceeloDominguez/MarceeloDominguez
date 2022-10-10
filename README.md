@@ -1,4 +1,5 @@
-# Hi, my name is Marcelo Dominguez 👋
+<h1 align="center">Hi 👋, I'm Marcelo Dominguez</h1>
+<h3 align="center">A passionate frontend developer from Argentina.</h3>
 
 ## Resume
 I'm a Frontend Developer. React Js - React Native
