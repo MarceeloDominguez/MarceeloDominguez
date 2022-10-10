@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Dominguez</h1>
-<h3 align="center">A passionate frontend developer from Argentina.</h3>
+<h3 align="center">A passionate frontend developer from Argentina arge🇦🇷</h3>
 
-## Resume
-I'm a Frontend Developer. React Js - React Native
-
-## Present
+## 🚀 About Me
 - 👨‍💻 All of my projects are available at [https://portafolio-seven-eta.vercel.app/](https://portafolio-seven-eta.vercel.app/)
 - 🔭 I’m currently working as Jr React Native developer
 - 🌱 I’m currently learning more about frontend and backend technologies
