@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 All of my projects are available at [https://portafolio-seven-eta.vercel.app/](https://portafolio-seven-eta.vercel.app/)
-- 🔭 I’m currently working as Jr React Native developer
+- 🔭 I’m currently working as developer Frontend. React Native - React Js - Typescript - Node js
 - 🌱 I’m currently learning more about frontend and backend technologies
 - ⚽️ Fan of football and River Plate
 
@@ -21,5 +21,6 @@
 </br>
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/marceelodominguez@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marceelodominguez@gmail.com)
+Write to: marceelodominguez@gmail.com
+
 
