@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 
 ## 🚀 About Me
-- 👨‍💻 All of my projects are available at [https://portafolio-seven-eta.vercel.app/](https://portafolio-seven-eta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portafolio](https://portafolio-seven-eta.vercel.app/)
 - 🔭 I’m currently working as developer Frontend. React Native - React Js - Typescript - Node js
 - 🌱 I’m currently learning more about frontend and backend technologies
 - ⚽️ Fan of football and River Plate
