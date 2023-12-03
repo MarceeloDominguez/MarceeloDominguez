@@ -17,8 +17,6 @@ It is an application where you can search for information about the most popular
 
 
 ## Find me at:
-[![Twitter](https://img.shields.io/badge/Twitter-@MarceeDominguez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/MarceeDominguez)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Dominguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcelo-dominguez-351570194/)
 </br>
 
