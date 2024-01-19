@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 
 ## 🚀 About Me
-- 👨‍💻 All of my projects are available at [Portafolio](https://portafolio-seven-eta.vercel.app/)
 - 🚀 My personal projects: [FinTrack](https://play.google.com/store/apps/details?id=com.controldecostos) It is an application to control your personal finances. [FilmsApp](https://play.google.com/store/apps/details?id=com.searchmovie) 
 It is an application where you can search for information about the most popular and current movies and series.
 - 🔭 I’m currently working as developer Frontend. React Native - React Js - Next Js - TypeScript - Node Js
